@@ -1,9 +1,29 @@
-verdict_sheet_nlp
-=================
+verdict\_sheet\_nlp package
+===========================
 
-.. testsetup::
+Submodules
+----------
 
-    from verdict_sheet_nlp import *
+verdict\_sheet\_nlp.cli module
+------------------------------
+
+.. automodule:: verdict_sheet_nlp.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+verdict\_sheet\_nlp.configs module
+----------------------------------
+
+.. automodule:: verdict_sheet_nlp.configs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
 
 .. automodule:: verdict_sheet_nlp
-    :members:
+   :members:
+   :undoc-members:
+   :show-inheritance:

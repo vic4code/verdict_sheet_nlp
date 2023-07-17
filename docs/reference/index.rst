@@ -1,7 +1,7 @@
-Reference
-=========
+verdict_sheet_nlp
+=================
 
 .. toctree::
-    :glob:
+   :maxdepth: 4
 
-    verdict_sheet_nlp*
+   verdict_sheet_nlp
